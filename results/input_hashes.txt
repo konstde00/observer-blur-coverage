@@ -1,0 +1,3 @@
+Input files used for results/gt_geometry.json (sha256, size in bytes).
+person_keypoints_ego_rgb.json  c7bf0cdba39635c867e9d91a955491b41822e25cf62f7ac492cf321a56aef3a8  331828578 (complete file)
+person_keypoints_exo.json      b7c8e82dba43d07c27aca020b7e3915c72bdf38f94e30fd806140145ea0c53cd  201326592 (first 201,326,592 bytes only, the download stopped there)

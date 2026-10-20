@@ -1,0 +1,3 @@
+Paired tagging 001 to 007, share of faces not fully covered by the 100 px circle.
+Head-worn minus room, 95% interval from 2000 bootstrap resamples over cameras (seed 1):
+-14.04 to -8.74 percentage points

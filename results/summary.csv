@@ -1,0 +1,43 @@
+set,view,face_instances,not_fully_covered_pct,ci95_low,ci95_high,keypoint_outside_circle_pct,under_90pct_covered_pct,face_wider_than_circle_pct,face_span_px_p10,face_span_px_p50,face_span_px_p90
+paired 01_tagging 001 to 007,"head-worn (Aria, 1408 x 1408)",21877,2.46,2.26,2.67,0.64,1.53,0.16,19,32,64
+paired 01_tagging 001 to 007,"room (GoPro, 3840 x 2160)",78748,13.91,13.67,14.15,5.56,9.4,2.47,39,60,122
+01_tagging/001_tagging,"head-worn (Aria, 1408 x 1408)",5117,4.34,3.81,4.93,0.72,2.36,0.14,19,35,77
+01_tagging/001_tagging,"room (GoPro, 3840 x 2160)",18423,12.85,12.37,13.34,4.41,8.13,1.45,39,60,116
+01_tagging/002_tagging,"head-worn (Aria, 1408 x 1408)",1902,2.0,1.46,2.73,0.68,1.63,0.11,22,35,61
+01_tagging/002_tagging,"room (GoPro, 3840 x 2160)",6649,17.37,16.48,18.3,8.02,13.52,3.59,41,59,141
+01_tagging/003_tagging,"head-worn (Aria, 1408 x 1408)",2620,4.31,3.6,5.16,2.1,3.17,0.76,18,31,75
+01_tagging/003_tagging,"room (GoPro, 3840 x 2160)",9455,14.85,14.15,15.58,6.83,9.81,4.03,38,59,124
+01_tagging/004_tagging,"head-worn (Aria, 1408 x 1408)",976,0.72,0.35,1.47,0.2,0.31,0.0,21,35,61
+01_tagging/004_tagging,"room (GoPro, 3840 x 2160)",3787,11.33,10.36,12.38,5.47,8.79,2.3,41,58,115
+01_tagging/005_tagging,"head-worn (Aria, 1408 x 1408)",3669,0.41,0.25,0.67,0.0,0.08,0.0,19,32,62
+01_tagging/005_tagging,"room (GoPro, 3840 x 2160)",13404,11.11,10.59,11.65,3.98,6.66,1.75,39,60,109
+01_tagging/006_tagging,"head-worn (Aria, 1408 x 1408)",3416,1.38,1.04,1.82,0.35,0.88,0.09,18,28,55
+01_tagging/006_tagging,"room (GoPro, 3840 x 2160)",11144,13.16,12.54,13.8,4.48,9.13,1.74,40,58,121
+01_tagging/007_tagging,"head-worn (Aria, 1408 x 1408)",5738,2.21,1.86,2.63,0.56,1.39,0.07,18,29,56
+01_tagging/007_tagging,"room (GoPro, 3840 x 2160)",15886,16.63,16.06,17.22,7.22,11.56,3.41,38,60,134
+01_tagging/008_tagging,"head-worn (Aria, 1408 x 1408)",753,4.91,3.59,6.7,0.0,1.06,0.0,15,25,51
+01_tagging/009_tagging,"head-worn (Aria, 1408 x 1408)",1885,1.91,1.38,2.63,0.69,1.38,0.0,22,34,65
+01_tagging/010_tagging,"head-worn (Aria, 1408 x 1408)",1506,3.39,2.58,4.43,1.13,2.19,0.07,25,42,74
+01_tagging/011_tagging,"head-worn (Aria, 1408 x 1408)",3013,2.69,2.17,3.33,0.43,1.06,0.1,29,42,67
+01_tagging/012_tagging,"head-worn (Aria, 1408 x 1408)",1669,2.1,1.51,2.9,0.06,0.72,0.0,17,25,61
+01_tagging/013_tagging,"head-worn (Aria, 1408 x 1408)",1597,0.94,0.57,1.54,0.25,0.56,0.0,17,29,56
+01_tagging/014_tagging,"head-worn (Aria, 1408 x 1408)",1756,5.64,4.65,6.82,1.77,3.76,0.68,14,26,65
+02_legoassemble/001_legoassemble,"head-worn (Aria, 1408 x 1408)",1319,10.39,8.85,12.15,2.12,4.85,0.3,41,68,106
+02_legoassemble/002_legoassemble,"head-worn (Aria, 1408 x 1408)",1335,10.11,8.61,11.85,2.1,4.19,0.07,37,61,106
+02_legoassemble/003_legoassemble,"head-worn (Aria, 1408 x 1408)",1375,9.09,7.68,10.73,1.82,3.49,0.15,45,63,103
+02_legoassemble/004_legoassemble,"head-worn (Aria, 1408 x 1408)",1779,7.2,6.08,8.49,2.47,4.33,0.62,37,60,98
+02_legoassemble/005_legoassemble,"head-worn (Aria, 1408 x 1408)",911,15.37,13.17,17.85,3.29,6.37,0.33,46,74,114
+02_legoassemble/006_legoassemble,"head-worn (Aria, 1408 x 1408)",820,9.63,7.8,11.85,2.44,5.98,0.0,49,73,105
+03_fencing/001_fencing,"head-worn (Aria, 1408 x 1408)",2879,1.49,1.11,2.01,0.0,0.42,0.0,14,23,62
+03_fencing/002_fencing,"head-worn (Aria, 1408 x 1408)",2939,0.51,0.31,0.84,0.0,0.17,0.0,15,23,55
+03_fencing/003_fencing,"head-worn (Aria, 1408 x 1408)",5948,0.07,0.03,0.17,0.0,0.0,0.0,18,30,62
+03_fencing/004_fencing,"head-worn (Aria, 1408 x 1408)",1404,0.36,0.15,0.83,0.0,0.14,0.0,15,25,59
+03_fencing/005_fencing,"head-worn (Aria, 1408 x 1408)",2823,1.24,0.89,1.72,0.85,1.2,0.35,14,20,60
+03_fencing/006_fencing,"head-worn (Aria, 1408 x 1408)",2985,1.57,1.19,2.09,0.07,0.77,0.0,14,20,62
+03_fencing/008_fencing,"head-worn (Aria, 1408 x 1408)",2794,0.68,0.44,1.06,0.07,0.14,0.0,27,42,63
+03_fencing/009_fencing,"head-worn (Aria, 1408 x 1408)",1828,0.0,0.0,0.21,0.0,0.0,0.0,24,40,61
+03_fencing/010_fencing,"head-worn (Aria, 1408 x 1408)",2690,0.59,0.37,0.96,0.0,0.0,0.0,23,46,67
+03_fencing/011_fencing,"head-worn (Aria, 1408 x 1408)",656,0.0,0.0,0.58,0.0,0.0,0.0,21,39,54
+03_fencing/012_fencing,"head-worn (Aria, 1408 x 1408)",883,0.0,-0.0,0.43,0.0,0.0,0.0,11,15,21
+03_fencing/013_fencing,"head-worn (Aria, 1408 x 1408)",609,0.0,-0.0,0.63,0.0,0.0,0.0,15,20,32
+03_fencing/014_fencing,"head-worn (Aria, 1408 x 1408)",480,0.0,-0.0,0.79,0.0,0.0,0.0,30,51,79
